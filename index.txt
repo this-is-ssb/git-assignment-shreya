@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Local change
+=======
+Welcome to Git Assignment
+New change for Task 6
+>>>>>>> 37a035f153eb7315b76ca95d2203b827349a5376
